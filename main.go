@@ -4,4 +4,6 @@ import (
 	_ "rsc.io/quote"
 )
 
-func main() {}
+func main() {
+	println("jake stuff")
+}
